@@ -17,7 +17,7 @@ namespace DegerVeReferansTipler
 
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
-            Console.WriteLine(sayilar2[0] + "-AAAAA");
+            Console.WriteLine(sayilar2[0]);
 
             Console.ReadLine();
         }
